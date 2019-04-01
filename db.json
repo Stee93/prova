@@ -1,0 +1,13 @@
+{
+    "gateways": [
+        {
+            "name": "CLEX"
+        },
+        {
+            "name": "META"
+        },
+        {
+            "name": "JSON"
+        }
+    ]
+}
